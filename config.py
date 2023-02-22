@@ -1,4 +1,4 @@
-TOKEN = '5881162551:AAGMET0Skrt4u-_eE3dzQa20AiLKSjWgwG0'
-ADMIN_ID = '5651433872'
-ADMIN_USERNAME = '@r4w3ss'
+TOKEN = 'YouR token'
+ADMIN_ID = 'YouR id'
+ADMIN_USERNAME = '@YouR username'
 ADMIN_GROUP = 'Admin not have group'
